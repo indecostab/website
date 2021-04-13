@@ -40,7 +40,7 @@ exhibit regime shifts.
 [University of Utrecht](https://www.uu.nl/)
 
 ![ECIM Logo](/res/logo_ecim.png)
-[Pontificia Universidad Católica de Chile, EICM](ecim.bio.puc.cl/)
+[Pontificia Universidad Católica de Chile, ECIM](ecim.bio.puc.cl/)
 
 ## Funding 
 
