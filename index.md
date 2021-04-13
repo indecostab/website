@@ -1,5 +1,7 @@
 ## Developing indicators of ecological stability for coral reefs 
 
+![Coral site on Easter Island](/res/coral_rapa.jpg)
+
 Natural ecosystems will change in the coming decades, as a result of the 
 ever-increasing human footprint. While some ecosystems will respond smoothly,  
 others may exhibit abrupt regime shifts, which are large and sudden changes in 
@@ -28,16 +30,16 @@ coral reefs. We will combine modelling work with empirical surveys to understand
 how the spatial structure of reefs informs us on their potential ability to 
 exhibit regime shifts. 
 
-![Coral site on Easter Island](/res/coral_rapa.jpg)
-
 ## Links and resources 
 
 [Project description on CORDIS](https://cordis.europa.eu/project/id/896159)
 
 ## Partners 
 
+![UU Logo](/res/uu_logo.png)
 [University of Utrecht](https://www.uu.nl/)
 
+![ECIM Logo](/res/logo_ecim.png)
 [Pontificia Universidad Católica de Chile, EICM](ecim.bio.puc.cl/)
 
 ## Funding 
