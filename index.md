@@ -36,10 +36,12 @@ exhibit regime shifts.
 
 ## Partners 
 
-![UU Logo](/res/uu_logo.png)
+![UU Logo](/res/logo_uu.png)
+
 [University of Utrecht](https://www.uu.nl/)
 
 ![ECIM Logo](/res/logo_ecim.png)
+
 [Pontificia Universidad Católica de Chile, ECIM](ecim.bio.puc.cl/)
 
 ## Funding 
