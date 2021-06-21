@@ -1,6 +1,7 @@
 ## Developing indicators of ecological stability for coral reefs 
 
 ![Coral site on Easter Island](/res/coral_rapa.jpg)
+<small>Coral reefs on Easter Island (Photo: ECIM) </small>
 
 Natural ecosystems will change in the coming decades, as a result of the 
 ever-increasing human footprint. While some ecosystems will respond smoothly,  
@@ -33,6 +34,7 @@ exhibit regime shifts.
 ## Links and resources 
 
 [Project description on CORDIS](https://cordis.europa.eu/project/id/896159)
+[Software repository](https://github.com/indecostab/)
 
 ## Partners 
 
