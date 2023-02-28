@@ -16,6 +16,8 @@ shift may occur in a given ecosystem? A possible approach to answer such
 questions is through ecological modelling, which allows us to come up with 
 scenarios on how an ecosystem could respond to global changes. 
 
+<video src="https://alex.lecairn.org/files/indecostab_video.mp4" loop autoplay><video>
+
 Ecological modelling also helps us understand the link between the patterns we 
 measure in a given system, and the properties of the ecosystem as a whole. In 
 many terrestrial ecosystems where abrupt shifts occur, spatial patterns are 
