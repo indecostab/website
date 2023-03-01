@@ -19,6 +19,7 @@ scenarios on how an ecosystem could respond to global changes.
 <video style="width: 100%;" src="https://alex.lecairn.org/files/indecostab_video_small.mp4" loop autoplay>
   Your browser does not support the display of videos.
 </video>
+<small>3D underwater mapping done during the course of this project</small>
 
 Ecological modelling also helps us understand the link between the patterns we 
 measure in a given system, and the properties of the ecosystem as a whole. In 
