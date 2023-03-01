@@ -1,4 +1,6 @@
 
+# Indecostab project
+
 ## Developing indicators of ecological stability for coral reefs 
 
 ![Coral site on Easter Island](/res/coral_rapa.jpg)
