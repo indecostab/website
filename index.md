@@ -53,7 +53,7 @@ exhibit regime shifts.
 
 ![ECIM Logo](/res/logo_ecim.png)
 
-[Pontificia Universidad Católica de Chile, ECIM](ecim.bio.puc.cl/)
+[Pontificia Universidad Católica de Chile, ECIM](https://ecim.bio.puc.cl/)
 
 ## Funding 
 
@@ -62,3 +62,16 @@ exhibit regime shifts.
 This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under the Marie Skłodowska-Curie grant
 agreement No 896159.
+
+## Project publications 
+
+- (accepted) A. Génin, S. A. Navarrete, A. Garcia-Mayor, E. A. Wieters. Emergent spatial
+patterns can indicate upcoming regime shifts in a realistic model of coral community. The
+American Naturalist
+
+- [book chapter] Common Oversights in the Design and Monitoring of Ecosystem-Based Management Plans and the siting of Marine Protected Areas Navarrete, S., Aiken. C. M., Ávila-Thieme M. I., Valencia D., Génin A., Gelcich S. [link](https://www.researchgate.net/profile/Sergio-Navarrete/publication/370713278_Common_Oversights_in_the_Design_and_Monitoring_of_Ecosystem-Based_Management_Plans_and_the_Siting_of_Marine_Protected_Areas/links/6462262efbaf5b27a4cb3e26/Common-Oversights-in-the-Design-and-Monitoring-of-Ecosystem-Based-Management-Plans-and-the-Siting-of-Marine-Protected-Areas.pdf)
+
+- Navarrete S., Ávila-Thieme M. I., Valencia, D., Génin, A., Gelcich, S. Monitoring the Fabric of Nature: Using Allometric Trophic Network models and observations to assess policy effects on biodiversity. Proceedings B [link](https://doi.org/10.1098/rstb.2022.0189)
+
+- [book in french] Alexandre Génin. 2023 Quand la nature s’effondre – Comprendre les transitions abruptes dans les écosystèmes. (When nature collapses – Understanding abrupt transitions in ecosystems) Ed. Matériologiques. [link](https://materiologiques.com/fr/modelisations-simulations-systemes-complexes-2425-5661/372-quand-la-nature-seffondre-comprendre-les-transitions-abruptes-dans-les-ecosystemes-9782373614008.html)
+
