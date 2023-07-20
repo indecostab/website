@@ -55,14 +55,6 @@ exhibit regime shifts.
 
 [Pontificia Universidad Católica de Chile, ECIM](https://ecim.bio.puc.cl/)
 
-## Funding 
-
-![MC Logo](/res/mc_logo.png)
-
-This project has received funding from the European Union’s Horizon 2020
-research and innovation programme under the Marie Skłodowska-Curie grant
-agreement No 896159.
-
 ## Project publications 
 
 - (accepted) A. Génin, S. A. Navarrete, A. Garcia-Mayor, E. A. Wieters. Emergent spatial
@@ -75,3 +67,10 @@ American Naturalist
 
 - [book in french] Alexandre Génin. 2023 Quand la nature s’effondre – Comprendre les transitions abruptes dans les écosystèmes. (When nature collapses – Understanding abrupt transitions in ecosystems) Ed. Matériologiques. [link](https://materiologiques.com/fr/modelisations-simulations-systemes-complexes-2425-5661/372-quand-la-nature-seffondre-comprendre-les-transitions-abruptes-dans-les-ecosystemes-9782373614008.html)
 
+## Funding 
+
+![MC Logo](/res/mc_logo.png)
+
+This project has received funding from the European Union’s Horizon 2020
+research and innovation programme under the Marie Skłodowska-Curie grant
+agreement No 896159.
