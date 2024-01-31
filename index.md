@@ -1,8 +1,4 @@
 
-# Indecostab project
-
-## Developing indicators of ecological stability for coral reefs 
-
 ![Coral site on Easter Island](/res/coral_rapa.jpg)
 <small>Coral reefs on Easter Island (Photo: ECIM) </small>
 
@@ -19,10 +15,10 @@ shift may occur in a given ecosystem? A possible approach to answer such
 questions is through ecological modelling, which allows us to come up with 
 scenarios on how an ecosystem could respond to global changes. 
 
-<video style="width: 100%;" src="https://alex.lecairn.org/files/indecostab_video_small.mp4" loop autoplay>
+<video style="width: 100%;" src="https://alex.lecairn.org/files/corals-english-social-media.mp4" loop autoplay muted>
   Your browser does not support the display of videos.
 </video>
-<small>3D underwater mapping done during the course of this project</small>
+<small>Presentation of the project (2:06)</small>
 
 Ecological modelling also helps us understand the link between the patterns we 
 measure in a given system, and the properties of the ecosystem as a whole. In 
@@ -57,9 +53,9 @@ exhibit regime shifts.
 
 ## Project publications 
 
-- (accepted) A. Génin, S. A. Navarrete, A. Garcia-Mayor, E. A. Wieters. Emergent spatial
+- A. Génin, S. A. Navarrete, A. Garcia-Mayor, E. A. Wieters. Emergent spatial
 patterns can indicate upcoming regime shifts in a realistic model of coral community. The
-American Naturalist
+American Naturalist [link](https://www.journals.uchicago.edu/doi/10.1086/728117)
 
 - [book chapter] Common Oversights in the Design and Monitoring of Ecosystem-Based Management Plans and the siting of Marine Protected Areas Navarrete, S., Aiken. C. M., Ávila-Thieme M. I., Valencia D., Génin A., Gelcich S. [link](https://www.researchgate.net/profile/Sergio-Navarrete/publication/370713278_Common_Oversights_in_the_Design_and_Monitoring_of_Ecosystem-Based_Management_Plans_and_the_Siting_of_Marine_Protected_Areas/links/6462262efbaf5b27a4cb3e26/Common-Oversights-in-the-Design-and-Monitoring-of-Ecosystem-Based-Management-Plans-and-the-Siting-of-Marine-Protected-Areas.pdf)
 
@@ -74,3 +70,10 @@ American Naturalist
 This project has received funding from the European Union’s Horizon 2020
 research and innovation programme under the Marie Skłodowska-Curie grant
 agreement No 896159.
+
+
+<video style="width: 100%;" src="https://alex.lecairn.org/files/indecostab_video_small.mp4" loop autoplay muted>
+  Your browser does not support the display of videos.
+</video>
+<small>3D underwater mapping done during the course of this project</small>
+
