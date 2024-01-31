@@ -15,7 +15,7 @@ shift may occur in a given ecosystem? A possible approach to answer such
 questions is through ecological modelling, which allows us to come up with 
 scenarios on how an ecosystem could respond to global changes. 
 
-<video style="width: 100%;" src="https://alex.lecairn.org/files/corals-english-social-media.mp4" loop autoplay muted>
+<video style="width: 100%;" src="https://alex.lecairn.org/files/corals-english-social-media.mp4" loop autoplay muted controls>
   Your browser does not support the display of videos.
 </video>
 <small>Presentation of the project (2:06)</small>
